@@ -7,7 +7,19 @@
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
 		<version>2.6.4</version>
+<<<<<<< HEAD
 		<relativePath /> <!-- lookup parent from repository -->
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+		<relativePath /> <!-- lookup parent from repository  -->
+=======
+		<relativePath /> <!-- lookup parent from repository -->
+>>>>>>> 566924bb86f4510e21a9e785efd264727b36e375
+=======
+		<relativePath /> <!-- lookup parent from repository -->
+>>>>>>> 566924bb86f4510e21a9e785efd264727b36e375
+>>>>>>> 1220d2aff27609764133fe7bb264f75a673e46a3
 	</parent>
 	<groupId>com.devsuperior</groupId>
 	<artifactId>dsmovie</artifactId>
@@ -59,7 +71,19 @@
 				<groupId>org.springframework.boot</groupId>
 				<artifactId>spring-boot-maven-plugin</artifactId>
 			</plugin>
+<<<<<<< HEAD
 			
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+
+=======
+			
+>>>>>>> 566924bb86f4510e21a9e785efd264727b36e375
+=======
+			
+>>>>>>> 566924bb86f4510e21a9e785efd264727b36e375
+>>>>>>> 1220d2aff27609764133fe7bb264f75a673e46a3
 			<plugin>
 				<groupId>org.apache.maven.plugins</groupId>
 				<artifactId>maven-resources-plugin</artifactId>

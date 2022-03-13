@@ -7,7 +7,7 @@ function Navbar() {
         <div className="dsmovie-nav-content">
           <h1>DSMovies</h1>
           <a
-            href="https://github.com/devsuperior"
+            href="https://github.com/gustavo-mmh"
             target="_blank"
             rel="noreferrer"
           >

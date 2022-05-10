@@ -1,11 +1,10 @@
 # DsMovie
 
 
--->
 ## 📌 Sobre este Projeto
 
-Desenvolvimento e publicação, de um aplicativo web usando Java com Spring Boot no back end, TypeScript com ReactJS no front end. Realizado no evento Semana Spring React,
-edição SDS 7.0, ocorrido de 07/03/2022 a 13/03/2022.
+Desenvolvimento e publicação, de um aplicativo web usando Java com Spring Boot no back end, TypeScript com ReactJS no front end. Realizado no evento Semana Spring React, edição SDS 7.0, ocorrido de 07/03/2022 a 13/03/2022.
+Foi criado um catálogo de filmes alimentada por api, com a opção de avaliar os filmes.
 
 ## 💡 Por quê?
 
@@ -32,7 +31,7 @@ Conecte-se comigo em [LinkedIn](https://www.linkedin.com/in/gustavo-m-mello/)
 
 ## 🌎 Ver Site Funcionando
 
-- Heroku
+-  [Ver Site](https://gmmh-dsmovie.netlify.app/)
 
 ## ⚠️ Instalando -Website de Portfólio Pessoal-
 

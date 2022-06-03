@@ -16,7 +16,7 @@ Conecte-se comigo em [LinkedIn](https://www.linkedin.com/in/gustavo-m-mello/)
 
 ## 🖥️ Tecnologias
 
-- HTNL5
+- HTML5
 - CSS3
 - Java
 - Spring Boot
